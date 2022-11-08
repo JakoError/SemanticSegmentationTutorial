@@ -1,6 +1,6 @@
 # SemanticSegmentationTutorial
 
-Some basic trick about semantic segmentation based on tensorflow & some open datasets
+Some basic tricks about semantic segmentation based on tensorflow & some open datasets
 
 # Thanks
 1. CityScapes DataSets https://www.cityscapes-dataset.com/
